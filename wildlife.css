@@ -1,0 +1,39 @@
+.body1{
+    background-image: url(https://wallpapercave.com/wp/wp11499832.jpg);
+    
+ 
+    height: 1000px;
+    
+}
+.navbar-nav a{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    margin-right: 50px;
+    font-size: 20px;
+}
+.navbar .navbar-brand{
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.survival{
+    color: rgb(255, 190, 78);
+    margin-top: -700px;
+    
+}
+.body2{
+    background-image: url(https://www.howdeniberia.com/wp-content/uploads/2015/06/Grey-Background.jpg);
+    height: 1000px;
+    margin-top: 480px;
+    
+}
+form{
+    margin-left:800px;
+}
+.body3{
+    background-image: url(https://www.howdeniberia.com/wp-content/uploads/2015/06/Grey-Background.jpg);
+    height: 1000px;
+    padding: 200px;
+    
+}
